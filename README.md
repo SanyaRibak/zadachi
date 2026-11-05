@@ -1,2 +1,2 @@
-npm.cmd install
-npm.cmd run dev
+npm.cmd install  
+npm.cmd run dev  
